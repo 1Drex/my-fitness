@@ -1,0 +1,9 @@
+{
+  "name": "MY FITNESS — личный фитнес-трекер",
+  "short_name": "MY FITNESS",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#10100f",
+  "theme_color": "#11100f",
+  "description": "Личный дневник тренировок, питания и прогресса"
+}
